@@ -25,6 +25,7 @@
 }
 html{
     scroll-behavior: smooth;
+    background-image: url(https://i.imgur.com/DdenQSz.jpeg);
 }
 .dancing-script-name {
   font-family: "Dancing Script", cursive;
