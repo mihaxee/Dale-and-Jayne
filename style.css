@@ -111,6 +111,7 @@ label.logo{
     padding: 0 0 0 30px;
     font-weight: bold;
     font-family: "Dancing Script", cursive
+    background-image: url(https://i.imgur.com/ihdoO0v.png);
 }
 nav ul{
     float: right;
@@ -380,7 +381,7 @@ a:hover{
 .hands{
     height: 120vh;
     width: 100%;
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/chuck-842bb.appspot.com/o/GurAmanWed%2Fpic6.jpg?alt=media&token=febecde7-9479-4a1e-8402-28f021228422);
+    background-image: url(https://i.imgur.com/olr5tcf.jpeg);
     background-size: cover;
     background-position-y: center;
     background-attachment: fixed;
