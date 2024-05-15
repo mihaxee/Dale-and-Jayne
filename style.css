@@ -242,7 +242,7 @@ a:hover{
     margin: 8vh 0;
 }
 .timeline-img{
-    background-image: url(https://i.imgur.com/XbTi4S2.jpeg);
+    background-image: url(https://i.imgur.com/5TY6EId.png);
     height: 70vh;
     width: 30vw;
     background-position: center;
@@ -327,15 +327,15 @@ a:hover{
     background-position: center;
 }
 .gallery-img:nth-child(1){
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/chuck-842bb.appspot.com/o/GurAmanWed%2Fpic3.jpg?alt=media&token=32a76585-cbeb-41f5-8921-6ad1ff60aa79);
+    background-image: url(https://i.imgur.com/UY0E1Fd.jpeg);
     background-position-x: right;
 }
 .gallery-img:nth-child(3){
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/chuck-842bb.appspot.com/o/GurAmanWed%2Fpic4.jpg?alt=media&token=3bde5693-e5c8-412d-bd47-1ef972258406);
+    background-image: url(https://i.imgur.com/C1Oajyt.jpeg);
 }
 .gallery-img:nth-child(2){
     background-position-y: top;
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/chuck-842bb.appspot.com/o/GurAmanWed%2Fpic5.jpg?alt=media&token=d9ef9475-ec6d-41ca-8cfd-3e45b70139d3);
+    background-image: url(https://i.imgur.com/XbTi4S2.jpeg);
 }
 @media (max-width:1000px){
     .gallery{
