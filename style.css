@@ -2,6 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Quicksand&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Satisfy&display=swap');
 
 /* <===================CSS VARIABLES===================> */
 
@@ -11,7 +12,7 @@
     --h3-size: 1.7rem;
     --text-size: 1.3rem;
     --horizontal-margin-spacing:6rem;
-    --grey-color-light: #000000;
+    --grey-color-light: #570202;
     --grey-color: #570202;
 }
 
@@ -33,6 +34,11 @@ html{
   font-weight: 500;
   font-style: normal;
 }
+.satisfy-regular {
+  font-family: "Satisfy", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
 .hz-margin{
     padding: 0 var(--horizontal-margin-spacing);
 }
@@ -40,6 +46,7 @@ h1{
     font-size: var(--h1-size);
     font-weight: 500;
     line-height: var(--h1-size);
+    font-family: "Satisfy", cursive;
 }
 h2{
     font-size: var(--h2-size);
