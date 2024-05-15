@@ -26,6 +26,12 @@
 html{
     scroll-behavior: smooth;
 }
+.dancing-script-name {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
 .hz-margin{
     padding: 0 var(--horizontal-margin-spacing);
 }
