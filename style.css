@@ -246,7 +246,7 @@ a:hover{
 }
 .timeline-img{
     background-image: url(https://i.imgur.com/5TY6EId.png);
-    height: 70vh;
+    height: 100vh;
     width: 30vw;
     background-position: center;
     background-size: cover;
@@ -391,10 +391,12 @@ a:hover{
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
-
-img #motif{
-    position: relative;
-    display: abosolute;
+.motif{
+    background-image: url(https://i.imgur.com/HBBB88G.png);
+    background-position: center;
+    background-size: cover;
+}
+<img name="motif" src="">
 }
 
     /* <===================STAY===================> */
