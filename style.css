@@ -390,6 +390,10 @@ a:hover{
     background-repeat: no-repeat;
 }
 
+#motif{
+    position: relative;
+}
+
     /* <===================STAY===================> */
     #stay{
         background-color: var(--grey-color);
